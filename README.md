@@ -1,4 +1,4 @@
-# About
+## About
 
 This repository is for first phase of the "Operating System" course project at Amirkabir University of Technology in Fall 2022
 
